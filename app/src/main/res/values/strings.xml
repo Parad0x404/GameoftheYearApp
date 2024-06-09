@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Game of the Year App</string>
+    <string name="search_game">Search Games</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="empty_favorite">Favorite List is empty!</string>
+    <string name="data_not_found">Data not found.</string>
+    <string name="game_desc">hree very different criminals team up for a series of heists and walk into some of the most thrilling experiences in the corrupt city of Los Santos.</string>
+    <string name="gamelist">GameList</string>
+</resources>
